@@ -1,2 +1,5 @@
-1. For Task 1 the proposed methodlogy and the calculations are written in "Task 1.pdf".
-2. I used ChatGPT for sketching the initial report structure in Latex.
+# Task 1
+
+1. The proposed methodology, design considerations, and throughput calculations for Task 1 are provided in `Task 1.pdf`.
+
+2. ChatGPT was used to help sketch the structure of the report in LaTeX.
